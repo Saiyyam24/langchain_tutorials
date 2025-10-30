@@ -1,0 +1,43 @@
+
+## ❓ Question: I have issue in login the account?
+
+**Answer:**
+
+If you're experiencing issues while trying to log into your AI Efforts account, don’t worry — this can usually be resolved in just a few steps.
+
+### 🔍 Common Reasons for Login Issues
+
+There are several reasons why login might fail. Please review the table below to understand the potential causes and how to fix them:
+
+| **Issue**                     | **Explanation**                                               | **Recommended Action**                                                 |
+| ----------------------------- | ------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Incorrect User ID or Password | The credentials entered do not match our records.             | Recheck the user ID and password for typos. Ensure CAPS LOCK is off.   |
+| Account Not Created           | You're attempting to log in without registering first.        | Please create a new account before trying to log in.                   |
+| Forgot Password               | You don’t remember your password or entered the wrong one.    | Use the **“Forgot Password”** option to reset it (only if registered). |
+| Account Not Verified          | You haven’t completed the email verification after sign-up.   | Check your inbox/spam folder for the verification email.               |
+| Browser or Network Issues     | Your browser or internet might be blocking the login request. | Try a different browser or stable internet connection.                 |
+
+---
+
+### 🔑 Forgot Password Guidance
+
+If you've already created an account and can't remember your password, you can use the **"Forgot Password"** option on the login page.
+Please note:
+
+* This feature **only works** if your account is already created and verified.
+* If the account does **not exist**, the system will **not respond or reset** the password.
+
+
+### 📬 Need More Help?
+
+If you continue facing login issues even after trying the above steps, please reach out to our support team with the following details:
+
+* Your registered email ID
+* A description of the issue
+* A screenshot (if possible)
+
+📧 **Contact Support**: [support@aiefforts.com](mailto:support@aiefforts.com)
+
+We’re here to ensure you get access to your AI Efforts account quickly and securely.
+
+---

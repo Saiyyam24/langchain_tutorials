@@ -1,0 +1,10 @@
+langchain
+langchain-google-genai 
+langchain-community
+google-generativeai
+sentence-transformers
+langchain-core
+langchain-postgres
+streamlit
+pypdf
+bs4
